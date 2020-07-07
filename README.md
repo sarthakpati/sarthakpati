@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Current Role
+Lead Software Developer for the [Federated Tumor Segmentation (FeTS) platform](https://www.fets.ai/) and a contributor to the [Cancer Imaging Phenomics Toolkit (CaPTk)](https://www.med.upenn.edu/cbica/captk/).
