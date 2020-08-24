@@ -33,4 +33,4 @@ Lead Software Developer for the [Federated Tumor Segmentation (FeTS)](https://ww
 Applying concepts of Machine Learning (with a focus on Federated Learning) to solve problems in medicine. 
 
 ### How to reach me 
-[sarthak.pati [at] uphs.upenn.edu](mailto:sarthak.pati@uphs.upenn.edu)
+[sarthak.pati [at] pennmedicine.upenn.edu](mailto:sarthak.pati@pennmedicine.upenn.edu)
