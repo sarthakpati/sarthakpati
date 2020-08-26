@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 Lead Software Developer for the [Federated Tumor Segmentation (FeTS)](https://www.fets.ai/) platform and a major contributor to the [Cancer Imaging Phenomics Toolkit (CaPTk)](https://www.med.upenn.edu/cbica/captk/).
 
 ### Interests
-- Applying concepts of Machine Learning (with a focus on Federated Learning) to solve problems in medicine. 
-- Huge advocate of [FAIR](https://en.wikipedia.org/wiki/FAIR_data)
+- Applying concepts of Machine Learning (with a focus on Federated Learning) to solve problems in medicine
 - Committed to doing [reproducible research](https://ropensci.github.io/reproducibility-guide/sections/introduction/)
+- Huge advocate of [FAIR](https://en.wikipedia.org/wiki/FAIR_data)
 
 ### How to reach me 
 [sarthak.pati [at] pennmedicine.upenn.edu](mailto:sarthak.pati@pennmedicine.upenn.edu)
