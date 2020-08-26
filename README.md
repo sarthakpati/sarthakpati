@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 ### Current Role 
-Lead Software Developer for the [Federated Tumor Segmentation (FeTS)](https://www.fets.ai/) platform and a contributor to the [Cancer Imaging Phenomics Toolkit (CaPTk)](https://www.med.upenn.edu/cbica/captk/).
+Lead Software Developer for the [Federated Tumor Segmentation (FeTS)](https://www.fets.ai/) platform and a major contributor to the [Cancer Imaging Phenomics Toolkit (CaPTk)](https://www.med.upenn.edu/cbica/captk/).
 
 ### Interests
 Applying concepts of Machine Learning (with a focus on Federated Learning) to solve problems in medicine. 
