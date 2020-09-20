@@ -35,4 +35,4 @@ Lead Software Developer for the [Federated Tumor Segmentation (FeTS)](https://ww
 - Huge advocate of [FAIR](https://en.wikipedia.org/wiki/FAIR_data)
 
 ### How to reach me 
-[sarthak.pati [at] pennmedicine.upenn.edu](mailto:sarthak.pati@pennmedicine.upenn.edu)
+[patis [at] upenn.edu](mailto:patis@upenn.edu)
