@@ -33,7 +33,6 @@ Lead Software Developer for the [Federated Tumor Segmentation (FeTS)](https://ww
 - Applying concepts of Machine Learning (with a focus on Federated Learning) to solve problems in medicine
 - Committed to doing [reproducible research](https://ropensci.github.io/reproducibility-guide/sections/introduction/)
 - Huge advocate of [FAIR](https://en.wikipedia.org/wiki/FAIR_data)
-- Supporter of [Slow Science](http://slow-science.org/)
 
 ### How to reach me 
 [patis [at] upenn.edu](mailto:patis@upenn.edu)
