@@ -32,7 +32,8 @@ Lead Software Developer for the [Federated Tumor Segmentation (FeTS)](https://ww
 
 ### Interests
 - Applying concepts of Machine Learning (with a focus on Federated Learning) to solve problems in medicine
-- Committed to doing [reproducible research](https://en.wikipedia.org/wiki/Reproducibility#Reproducible_research)
+- Committed to doing [reproducible](https://en.wikipedia.org/wiki/Reproducibility#Reproducible_research) and [deployable](https://en.wikipedia.org/wiki/Software_deployment) research
+  - Firm believer of the saying "a weak algorithm that is well written/integrated is better than a strong algorithm that isn't"
 - Advocating for [F.A.I.R.](https://en.wikipedia.org/wiki/FAIR_data) in research
 
 ### How to reach me 
