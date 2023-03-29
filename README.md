@@ -28,13 +28,22 @@ Here are some ideas to get you started:
 -->
 
 ### Current Role 
-Lead Software Developer for the [Federated Tumor Segmentation (FeTS)](https://www.fets.ai/) platform and a major contributor to the [Generally Nuanced Deep Learning Framework (GaNDLF)](https://github.com/mlcommons/GaNDLF), and the [Cancer Imaging Phenomics Toolkit (CaPTk)](https://www.med.upenn.edu/cbica/captk/).
+[Software Architect](https://www.med.upenn.edu/cbica/aibil/spati.html) at the University of Pennsylvania and Technical Lead at the [Medical Working Group of MLCommons](https://mlcommons.org/en/groups/research-medical/) working on designing solutions for privacy-focussed AI in Healthcare.
+
+I believe open software fosters better science, and thus have been involved in multiple open-source projects and their associated research studies, including the [Federated Tumor Segmentation (FeTS)](https://www.fets.ai/) platform and the [Cancer Imaging Phenomics Toolkit (CaPTk)](https://www.med.upenn.edu/cbica/captk/). I am currently focusing my efforts on the following: 
+
+- [Generally Nuanced Deep Learning Framework (GaNDLF)](https://mlcommons.github.io/GaNDLF)
+- [MedPerf](https://www.medperf.org)
+- [Open Federated Learning](https://github.com/securefederatedai/openfl) framework
+
 
 ### Interests
-- Applying concepts of Machine Learning (with a focus on Federated Learning) to solve problems in medicine
+- Applying concepts of AI (with a focus on privacy) to solve problems in healthcare
 - Committed to doing [reproducible](https://en.wikipedia.org/wiki/Reproducibility#Reproducible_research) and [deployable](https://en.wikipedia.org/wiki/Software_deployment) research
   - Firm believer of the saying _a weak algorithm that is well written/integrated is better than a strong algorithm that isn't_
 - Advocating for [F.A.I.R.](https://en.wikipedia.org/wiki/FAIR_data) in research
+- Helping people choose [the correct career path](https://oitecareersblog.od.nih.gov/2010/09/28/industry-vs-academia-which-is-right-for-you/)
+
 
 ### How to reach me 
 [patis [at] upenn.edu](mailto:patis@upenn.edu)
