@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 ### Current Role 
-[Software Architect](https://www.med.upenn.edu/cbica/aibil/spati.html) at the University of Pennsylvania and Technical Lead at the [Medical Working Group of MLCommons](https://mlcommons.org/en/groups/research-medical/) working on designing solutions for privacy-focussed AI in Healthcare.
+Software Architect & AI Researcher at the Indiana University, and Technical Lead at the [Medical Working Group of MLCommons](https://mlcommons.org/en/groups/research-medical/) working on designing solutions for privacy-focussed AI in Healthcare.
 
 I believe open software fosters better science, and thus have been involved in multiple open-source projects and their associated research studies, including the [Federated Tumor Segmentation (FeTS)](https://www.fets.ai/) platform and the [Cancer Imaging Phenomics Toolkit (CaPTk)](https://www.med.upenn.edu/cbica/captk/). I am currently focusing my efforts on the following: 
 
