@@ -47,4 +47,4 @@ I believe open software fosters better science, and thus have been involved in m
 
 
 ### How to reach me 
-[patis [at] upenn.edu](mailto:patis@upenn.edu)
+[patis [at] iu.edu](mailto:patis@iu.edu)
