@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 -->
 <a href="https://medicine.iu.edu/pathology/research/computational-pathology/people/pati" alt="IU Profile Page"><img alt="Static Badge" src="https://img.shields.io/badge/Page-p?style=flat&label=%F0%9F%96%B3%20IU-Profile&color=maroon"></a>
 <a href="https://scholar.google.com/citations?user=lL5jPysAAAAJ&hl=en" alt="Citation"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-red" /></a>
-<a href="https://orcid.org/0000-0003-2243-8487" alt="Citation"><img src="https://img.shields.io/badge/ORCID-Profile-green" /></a>
-<a href="https://www.linkedin.com/in/sarthakpati" alt="Citation"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" /></a>
-<a href="https://twitter.com/sarthakpati" alt="Citation"><img src="https://img.shields.io/twitter/follow/sarthakpati?style=social" /></a>
+<a href="https://orcid.org/0000-0003-2243-8487" alt="ORCID"><img src="https://img.shields.io/badge/ORCID-Profile-green" /></a>
+<a href="https://www.linkedin.com/in/sarthakpati" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" /></a>
+[![Follow @sarthakpati.bsky.social](https://img.shields.io/badge/follow-@sarthakpati.bsky.social-whitesmoke?style=social&logo=bluesky)](https://bsky.app/profile/sarthakpati.bsky.social)
+<a href="https://twitter.com/sarthakpati" alt="Twitter"><img src="https://img.shields.io/twitter/follow/sarthakpati?style=social" /></a>
 <!--
 </p>
 <a href="https://twitter.com/sarthakpati" alt="Citation"><img src="https://img.shields.io/twitter/follow/sarthakpati?style=social" /></a>
