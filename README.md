@@ -38,6 +38,7 @@ I believe open software fosters better science, and thus have been involved in m
 - [Generally Nuanced Deep Learning Framework (GaNDLF)](https://mlcommons.github.io/GaNDLF)
 - [MedPerf](https://www.medperf.org)
 - [Open Federated Learning (OpenFL)](https://github.com/securefederatedai/openfl) framework
+- Creating and maintaining as many [Anaconda recipes](https://anaconda.org/conda-forge/) as possible
 
 
 ### Interests
