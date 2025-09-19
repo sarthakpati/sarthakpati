@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <!--
 <p align="center">
--->
 <a href="https://medicine.iu.edu/pathology/research/computational-pathology/people/pati" alt="IU Profile Page"><img alt="Static Badge" src="https://img.shields.io/badge/Page-p?style=flat&label=%F0%9F%96%B3%20IU-Profile&color=maroon"></a>
+-->
 <a href="https://scholar.google.com/citations?user=lL5jPysAAAAJ&hl=en" alt="Citation"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-red" /></a>
 <a href="https://orcid.org/0000-0003-2243-8487" alt="ORCID"><img src="https://img.shields.io/badge/ORCID-Profile-green" /></a>
 <a href="https://www.linkedin.com/in/sarthakpati" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" /></a>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -->
 
 ### Current Role 
-**Software Architect** & **AI Researcher** at [Indiana University's Division of Computational Pathology](https://medicine.iu.edu/pathology/research/computational-pathology), and **Vice Chair for Algorithm Development and Benchmarking** at the [Medical Working Group of MLCommons](https://mlcommons.org/working-groups/data/medical/#:~:text=technical%20%26%20clinical%20meetings.-,Sarthak,-Pati) working on designing solutions for privacy-focused AI in Healthcare.
+Experienced **Solutions provider** & **AI Researcher** and **Vice Chair for Algorithm Development and Benchmarking** at the [Medical Working Group of MLCommons](https://mlcommons.org/working-groups/data/medical/#:~:text=technical%20%26%20clinical%20meetings.-,Sarthak,-Pati) working on designing solutions for various domains.
 
 I believe open software fosters better science, and thus have been involved in multiple open-source projects and their associated research studies, including the [Federated Tumor Segmentation (FeTS)](https://www.fets.ai/) platform and the [Cancer Imaging Phenomics Toolkit (CaPTk)](https://www.med.upenn.edu/cbica/captk/). I am currently focusing my efforts on the following: 
 
@@ -50,4 +50,4 @@ I believe open software fosters better science, and thus have been involved in m
 
 
 ### How to reach me 
-[patis [at] iu.edu](mailto:patis@iu.edu)
+[sarthak [at] mlcommons.org](mailto:sarthak@mlcommons.org)
