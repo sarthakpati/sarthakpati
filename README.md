@@ -35,8 +35,8 @@ Experienced **Solutions provider** & **AI Researcher** and **Vice Chair for Algo
 I believe open software fosters better science, and thus have been involved in multiple open-source projects and their associated research studies, including the [Federated Tumor Segmentation (FeTS)](https://www.fets.ai/) platform and the [Cancer Imaging Phenomics Toolkit (CaPTk)](https://www.med.upenn.edu/cbica/captk/). On the open-source community, I am currently focusing my efforts on the following: 
 
 - [MedPerf](https://www.medperf.org)
-- Creating and maintaining as many [Anaconda recipes](https://github.com/orgs/conda-forge/teams?query=%40sarthakpati) as possible to maximize reproducibility and scientific impact of open-source software
 - Developing benchmarks for bespoke industry applications
+- Creating and maintaining as many [Anaconda recipes](https://github.com/orgs/conda-forge/teams?query=%40sarthakpati) as possible to maximize reproducibility and scientific impact of open-source software
 
 
 ### Interests
